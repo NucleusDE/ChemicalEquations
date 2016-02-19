@@ -1,0 +1,9 @@
+C:\Users\22279_000\Desktop\ChemicalEquation\Equations_DATA\obj\Release\Equations_DATA.csprojResolveAssemblyReference.cache
+C:\Users\22279_000\Desktop\ChemicalEquation\Equations_DATA\bin\Release\Equations_DATA.dll
+C:\Users\22279_000\Desktop\ChemicalEquation\Equations_DATA\bin\Release\Equations_DATA.pdb
+C:\Users\22279_000\Desktop\ChemicalEquation\Equations_DATA\bin\Release\Data.dll
+C:\Users\22279_000\Desktop\ChemicalEquation\Equations_DATA\bin\Release\Model.dll
+C:\Users\22279_000\Desktop\ChemicalEquation\Equations_DATA\bin\Release\Data.pdb
+C:\Users\22279_000\Desktop\ChemicalEquation\Equations_DATA\bin\Release\Model.pdb
+C:\Users\22279_000\Desktop\ChemicalEquation\Equations_DATA\obj\Release\Equations_DATA.dll
+C:\Users\22279_000\Desktop\ChemicalEquation\Equations_DATA\obj\Release\Equations_DATA.pdb
