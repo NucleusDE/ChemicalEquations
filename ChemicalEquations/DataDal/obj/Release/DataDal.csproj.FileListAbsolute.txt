@@ -1,9 +1,0 @@
-C:\Users\22279_000\Desktop\ChemicalEquation\DataDal\obj\Release\DataDal.csprojResolveAssemblyReference.cache
-C:\Users\22279_000\Desktop\ChemicalEquation\DataDal\bin\Release\DataDal.dll
-C:\Users\22279_000\Desktop\ChemicalEquation\DataDal\bin\Release\DataDal.pdb
-C:\Users\22279_000\Desktop\ChemicalEquation\DataDal\bin\Release\Data.dll
-C:\Users\22279_000\Desktop\ChemicalEquation\DataDal\bin\Release\Model.dll
-C:\Users\22279_000\Desktop\ChemicalEquation\DataDal\bin\Release\Data.pdb
-C:\Users\22279_000\Desktop\ChemicalEquation\DataDal\bin\Release\Model.pdb
-C:\Users\22279_000\Desktop\ChemicalEquation\DataDal\obj\Release\DataDal.dll
-C:\Users\22279_000\Desktop\ChemicalEquation\DataDal\obj\Release\DataDal.pdb

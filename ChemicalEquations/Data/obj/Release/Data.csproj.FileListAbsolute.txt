@@ -1,4 +1,0 @@
-C:\Users\22279_000\Desktop\ChemicalEquation\Data\bin\Release\Data.dll
-C:\Users\22279_000\Desktop\ChemicalEquation\Data\bin\Release\Data.pdb
-C:\Users\22279_000\Desktop\ChemicalEquation\Data\obj\Release\Data.dll
-C:\Users\22279_000\Desktop\ChemicalEquation\Data\obj\Release\Data.pdb
